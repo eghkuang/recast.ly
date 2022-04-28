@@ -12,6 +12,19 @@ body {
 .navbar img {
   height: 40px;
   width: 50px;
+  background-image: url('src/lib/download.jpeg')
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  max-width: 50%;
+  max-height: 50%;
 }
 
 .search-bar {
